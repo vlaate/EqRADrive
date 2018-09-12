@@ -56,7 +56,7 @@ Then you might find this project interesting or educational.
 > * A speed of 0.5 degrees per second is the same as 30 degrees per minute, or 0.083 RPM (revolutions per minute)
 > * A speed of 0.083 RPM is achievable using a DC 0.6 RPM motor and PWM with a *duty cycle* of: 0.083 / 0.6 = 13.8%
 >
-> That's what the math says. In reality, you can expect the duty cucle will go somewhat lower for very light loads (perfectly balanced on the mount) or go higher for heavier/unbalanced loads.
+> That's what the math says. In reality, you can expect the duty cycle to go somewhat lower for very light loads (perfectly balanced on the mount) or go higher for heavier/unbalanced loads.
 
 
 
