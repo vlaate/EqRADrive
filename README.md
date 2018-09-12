@@ -85,4 +85,6 @@ Then you might find this project interesting or educational.
 
   You'll notice that the 2x forward and 2x reverse buttons (or 2 of the unused GPIO input pins of the Arduino) could be easily fed from an ST4/RJ11 signal, if you were to adventure into auto-guiding for longer exposure astrophotography.
   
+If you have questions or feedback, you are welcome to comment here: https://www.cloudynights.com/topic/628394-diy-ra-drive/
+  
   
