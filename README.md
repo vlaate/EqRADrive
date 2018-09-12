@@ -62,7 +62,7 @@ Then you might find this project interesting or educational.
 
 ## Hardware components / Parts list
 * Arduino based on the ATmega328P (could be an Uno, Pro Mini or similar based on the ATmega328P)
-* 12V 0.6RPM DC motor (~$13). These are 12V "low speed high torque" (20Kg.cm) geared motors. I got mine for $11 from here: https://www.aliexpress.com/item/-/32719817076.html but that particular store is now gone, these are found elsewhere, like here: https://www.aliexpress.com/item/-/32816451726.html)
+* 12V 0.6RPM DC motor (~$13). These are 12V "low speed high torque" (20Kg.cm) geared motors. I got mine for $11 from here: https://www.aliexpress.com/item/-/32719817076.html but that particular store is now gone. Still, these can be found elsewhere, like here: https://www.aliexpress.com/item/-/32816451726.html)
 * VNH2SP30 (~$3) Motor Driver (a.k.a. "Monster") I used this one: https://www.aliexpress.com/item/-/32247122784.html 
 * KY-040 Rotary Encoder (~$1), I used this one: https://www.aliexpress.com/item/-/32251159127.html 
 * TM74HC595 based, 7 segment, 4 digit common anode LED display (~$1), like this one: https://www.aliexpress.com/item/-/1688259613.html
