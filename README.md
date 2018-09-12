@@ -67,7 +67,7 @@ Then you might find this project interesting or educational.
 * KY-040 Rotary Encoder (~$1), I used this one: https://www.aliexpress.com/item/-/32251159127.html 
 * TM74HC595 based, 7 segment, 4 digit common anode LED display (~$1), like this one: https://www.aliexpress.com/item/-/1688259613.html
 * 4 Key Matrix Membrane Switch Keypad (~$1), like this one: https://www.aliexpress.com/item/-/1719136832.html
-* A shaft couplers of the approrpiate size, matching your mount on one side, and the motor on the other side. Probably one of these: https://www.aliexpress.com/item/-/1784910763.html
+* A shaft coupler of the approrpiate size, matching your mount on one side, and the motor on the other side. Probably one of these: https://www.aliexpress.com/item/-/1784910763.html
 * Recommended power source: Talentcell 12V battery + this buck adapter: https://www.aliexpress.com/item/-/32806774850.html
 
 
