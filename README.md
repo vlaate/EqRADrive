@@ -73,7 +73,7 @@ Then you might find this project interesting or educational.
 
 
 ## The Circuit
-
+![alt text](https://raw.githubusercontent.com/vlaate/EqRADrive/master/EqRADrive.png "Circuit")
 
 
 
